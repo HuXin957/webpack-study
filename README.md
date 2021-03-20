@@ -17,6 +17,6 @@
 
 |  选项   | 描述       |  特点    |
 |  ----  | ---------  | ----    |
-| development  | 会将 process.env.    NODE_ENV 的值设为development。启用NamedChunksPlugin 和 NamedModulesPlugin. |  能让代码本地调试运行的环境   |
+| development  | <div style="width:500px">会将 process.env.    NODE_ENV 的值设为development。启用NamedChunksPlugin 和 NamedModulesPlugin。</div> |  能让代码本地调试运行的环境   |
 | production  | 会将process.env.NODE_ENV 的值设为 production。启用FlagDependencyUsagePlugin，FlagIncludedChunksPlugin,ModuleConcatenationPlugin,NoEmitOnErrorsPlugin，OccurrenceOrderPlugin，SideEffectsFlagPlugin 和UglifyJsPlugin。 |   能让代码优化上线运行的环境  |
 
