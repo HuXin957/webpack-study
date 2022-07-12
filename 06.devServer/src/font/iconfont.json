@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20451854",
+      "name": "add-circle-Fill",
+      "font_class": "add-circle-Fill",
+      "unicode": "e8d0",
+      "unicode_decimal": 59600
+    },
+    {
+      "icon_id": "20451855",
+      "name": "aviation-Fill",
+      "font_class": "aviation-Fill",
+      "unicode": "e8d1",
+      "unicode_decimal": 59601
+    },
+    {
+      "icon_id": "20451856",
+      "name": "bag-Fill",
+      "font_class": "bag-Fill",
+      "unicode": "e8d2",
+      "unicode_decimal": 59602
+    }
+  ]
+}

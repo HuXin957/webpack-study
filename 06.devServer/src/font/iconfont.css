@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1616319167993'); /* IE9 */
+  src: url('iconfont.eot?t=1616319167993#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOkAAsAAAAAB6AAAANVAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDDAqCYIJKATYCJAMQCwoABCAFhG0HVBu4BsgehXGbk3T6xMJnODqvIEI7aDbZwycPQR3sSizlCmQl3fX7tUMt0ZitiEu68/Zt/zt5crN/8RCpro1G80xkaIlvzLns4T3LnMY3heCPe6eNKTafZbnMMc4/dQHGAQU09gIJuEAC85bhtYvhMNZDAEduSiINF9aioXIU3E0AGZkRdqg85UNRKRkjhCVjFVlOQGwWmB9gmf99+Uh5icEQWHDftoPnvdDUu3x3w05PptPTRcEfzwJIk8ACJQEF6Vpqa09RGCuJxRmxYgrDupoJvOskgXfpGpC1/vEMFiQEF6YEoCJI7SnxGRMC70qLOUM+5GABwAExJAYQYh3gc+5psNiUKTWDZonST/qdjre3093vcue6OZwQlH8MfoCIebm/a5qxpfNYsOPzlkKdhjpH7UA3dlrbPd3jKu/c6dzrzm7hrqxdj3f7hkV7sw/fu90p5d27g/ruL8zc+XDG3kWZOiWOFu2enjGvrfum/3/1BLBdjiOKk/Jg+/a69D3ZV+psl2otv/msVG5/F6bCL1kacFOLybR1Wt72GZMoXt01vNb1knp8LdE9NHjme/4d6Sv7MedLx2K4WOpNR/od+Ss8zxiZINOVjLa36eBkZeMAsb05rGbzez2uT75voPLZ1799+vl1SlwgqMNYQkBy2hJJXR/1nGyOJp7ZIxZ+0G8ouPeL90lT81vsFYBHUuEUeJPTSr88Ygy05v8OfssSNYVYr6qLGM9yKGVvrqsBHA5IwK70PBlDkal1IQgxmWIwROQCS0xBtOJLQoCnIoTE1AFHCZpM9mRgPEWIpgCKMweBkJaDYEjNKbCk5TJa8Y8hIDOfISStWHB0lgxzegrLsMoGhDajB/23YZhrtE+NXBkUh1GsS5uSQp8SRwoyQShXumw2uYgaaYwBEzZEz0T2YTAZBY3RZiilgbFksuhyx1Dm/EiZMoPLXtQxwKhQJQ0gEBsG8QD6sw0wDBeDxncrM5W5z4dBBOtIbKgG0WCNgxABmdqBcpSmbAv0oky3QlzLJRPYQNDDRBgfYDCEQQE0Rq0QicQAjC1vlQVxYToY2iOSZ4QypNzgtrKO+RXqCVcBDnywihErKgFp+nle+4AMuRLbG2ekrOm3kbH5TngpX3l/WwTaUAgAAAA=') format('woff2'),
+  url('iconfont.woff?t=1616319167993') format('woff'),
+  url('iconfont.ttf?t=1616319167993') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1616319167993#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-circle-Fill:before {
+  content: "\e8d0";
+}
+
+.icon-aviation-Fill:before {
+  content: "\e8d1";
+}
+
+.icon-bag-Fill:before {
+  content: "\e8d2";
+}
+
